@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="myxsl.xsl"?>
+<employees>
+    <employee id="001">
+        <name>kok</name>
+        <salary>400</salary>
+    </employee>
+
+    <employee id="002">
+        <name>sok</name>
+        <salary>500</salary>
+    </employee>
+
+    <employee id="003">
+        <name>soa</name>
+        <salary>600</salary>
+    </employee>
+    <employee id="004">
+        <name>dara</name>
+        <salary>700</salary>
+    </employee>
+</employees>
